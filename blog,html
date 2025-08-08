@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <title>مدونتي</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+      background-color: #fff;
+    }
+    h1 {
+      color: #007acc;
+      text-align: center;
+    }
+    article {
+      margin-bottom: 40px;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 20px;
+    }
+    h2 {
+      color: #007acc;
+    }
+    a {
+      color: #007acc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>مدونتي</h1>
+
+  <article>
+    <h2>عنوان المقال الأول</h2>
+    <p>هذا نص تجريبي للمقال الأول. أكتب هنا ما تريد من محتوى.</p>
+    <a href="post1.html">اقرأ المزيد</a>
+  </article>
+
+  <article>
+    <h2>عنوان المقال الثاني</h2>
+    <p>هذا نص تجريبي للمقال الثاني. أكتب هنا ما تريد من محتوى.</p>
+    <a href="post2.html">اقرأ المزيد</a>
+  </article>
+
+</body>
+</html>
